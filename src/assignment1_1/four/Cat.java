@@ -1,4 +1,4 @@
-package assignment1.four;
+package assignment1_1.four;
 
 public class Cat {
     private String name;
