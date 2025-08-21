@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assignment1_3/four/MultiplicationTableExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_3/four/MultiplicationTableExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment1_3/four/MultiplicationTableExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
       <workItem from="1755679717610" duration="1370000" />
       <workItem from="1755775106195" duration="810000" />
       <workItem from="1755775929676" duration="197000" />
-      <workItem from="1755776132710" duration="936000" />
+      <workItem from="1755776132710" duration="2888000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
