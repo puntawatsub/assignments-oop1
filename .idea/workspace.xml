@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assignment1_3/four/MultiplicationTableExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_3/three/PrimeNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment1_3/three/PrimeNumberGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
     "Application.BinaryConversion.executor": "Run",
     "Application.Cat.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.MultiplicationTableExam.executor": "Run",
     "Application.ObsoleteMeasurements.executor": "Run",
     "Application.PrimeNumberGenerator.executor": "Run",
     "Application.QuadraticEquation.executor": "Run",
@@ -58,6 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/puntawatsubhamani/Documents/class_codes/assignments-oop1",
     "node.js.detected.package.eslint": "true",
@@ -68,7 +70,8 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -99,6 +102,9 @@
       <workItem from="1755641183426" duration="5816000" />
       <workItem from="1755675898664" duration="896000" />
       <workItem from="1755679717610" duration="1370000" />
+      <workItem from="1755775106195" duration="810000" />
+      <workItem from="1755775929676" duration="197000" />
+      <workItem from="1755776132710" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
@@ -126,5 +132,9 @@
     <MESSAGE value="add Greeting.java" />
     <MESSAGE value="updated Greeting.java" />
     <option name="LAST_COMMIT_MESSAGE" value="updated Greeting.java" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
