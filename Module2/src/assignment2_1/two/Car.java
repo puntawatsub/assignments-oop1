@@ -8,7 +8,7 @@ public class Car {
      * Both are private (they can not be accessed outside the class methods).
      * Keep instance variables private whenever possible.
      */
-    private double speed;
+    private int speed;
     private double gasolineLevel;
     private double gasolineTankCapacity;
     private String typeName;
@@ -25,7 +25,7 @@ public class Car {
     }
 
 
-    public Car(double gasolineTankCapacity, double speed) {
+    public Car(double gasolineTankCapacity, int speed) {
         gasolineLevel = 0;
         this.speed = speed;
         this.gasolineTankCapacity = gasolineTankCapacity;
@@ -42,23 +42,23 @@ public class Car {
         else
             speed = 0;
     }
-    void decelerate(int amount) {
+    public void decelerate(int amount) {
         if (gasolineLevel > 0) {
             if (amount > 0)
                 speed = Math.max(0, speed - amount);
         } else
             speed = 0;
     }
-    double getSpeed() {
+    public int getSpeed() {
         return speed;
     }
-    String getTypeName() {
+    public String getTypeName() {
         return typeName;
     }
-    void fillTank() {
+    public void fillTank() {
         gasolineLevel = 100;
     }
-    double getGasolineLevel() {
+    public double getGasolineLevel() {
         return gasolineLevel;
     }
 }

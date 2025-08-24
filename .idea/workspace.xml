@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module1/Module1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/one/TelevisionViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/three/CoffeeMakerDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/two/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assignments-oop1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assignments-oop1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/four/CarDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/four/CruiseControlCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2/Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/Module2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_1/four/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_1/four/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_1/one/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_1/one/Greeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_1/three/SumOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_1/three/SumOfThreeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_1/two/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_1/two/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_2/one/FahrenheitToCelsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_2/one/FahrenheitToCelsius.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_2/three/ObsoleteMeasurements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_2/three/ObsoleteMeasurements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_2/two/Triangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_2/two/Triangles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_3/four/MultiplicationTableExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_3/four/MultiplicationTableExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_3/one/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_3/one/QuadraticEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_3/three/PrimeNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_3/three/PrimeNumberGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_3/two/BinaryConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_3/two/BinaryConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_4/one/RandomName.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_4/one/RandomName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_4/three/RemovingDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_4/three/RemovingDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment1_4/two/SubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_4/two/SubarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/assignment2_1/two/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/two/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinaryConversion.executor": "Run",
+    "Application.CarDriver.executor": "Run",
     "Application.Cat.executor": "Run",
     "Application.CoffeeMakerDriver.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
@@ -141,6 +123,7 @@
       <workItem from="1755775106195" duration="810000" />
       <workItem from="1755775929676" duration="197000" />
       <workItem from="1755776132710" duration="14255000" />
+      <workItem from="1756069030219" duration="3844000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
