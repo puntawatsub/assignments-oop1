@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/four/CarDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/four/CruiseControlCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2/src/assignment2_1/two/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/two/Car.java" afterDir="false" />
-    </list>
+    <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +118,7 @@
       <workItem from="1755775106195" duration="810000" />
       <workItem from="1755775929676" duration="197000" />
       <workItem from="1755776132710" duration="14255000" />
-      <workItem from="1756069030219" duration="3844000" />
+      <workItem from="1756069030219" duration="4116000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
