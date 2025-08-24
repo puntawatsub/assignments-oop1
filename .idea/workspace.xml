@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assignment1_4/three/RemovingDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/Module1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/one/TelevisionViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/three/CoffeeMakerDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_1/two/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assignments-oop1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assignments-oop1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/Module2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_1/four/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_1/four/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_1/one/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_1/one/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_1/three/SumOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_1/three/SumOfThreeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_1/two/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_1/two/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_2/one/FahrenheitToCelsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_2/one/FahrenheitToCelsius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_2/three/ObsoleteMeasurements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_2/three/ObsoleteMeasurements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_2/two/Triangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_2/two/Triangles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_3/four/MultiplicationTableExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_3/four/MultiplicationTableExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_3/one/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_3/one/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_3/three/PrimeNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_3/three/PrimeNumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_3/two/BinaryConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_3/two/BinaryConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_4/one/RandomName.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_4/one/RandomName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_4/three/RemovingDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_4/three/RemovingDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment1_4/two/SubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/src/assignment1_4/two/SubarraySum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +68,9 @@
   "keyToString": {
     "Application.BinaryConversion.executor": "Run",
     "Application.Cat.executor": "Run",
+    "Application.CoffeeMakerDriver.executor": "Run",
     "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.Greeting.executor": "Run",
     "Application.MultiplicationTableExam.executor": "Run",
     "Application.ObsoleteMeasurements.executor": "Run",
     "Application.PrimeNumberGenerator.executor": "Run",
@@ -57,10 +80,12 @@
     "Application.SubarraySum.executor": "Run",
     "Application.SumOfThreeNumbers.executor": "Run",
     "Application.Task2.executor": "Run",
+    "Application.TelevisionViewer.executor": "Run",
     "Application.Triangles.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -73,11 +98,19 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Module1" />
+      <recent name="$PROJECT_DIR$/Module1/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
