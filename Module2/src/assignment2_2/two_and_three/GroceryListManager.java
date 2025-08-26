@@ -18,6 +18,12 @@ public class GroceryListManager {
     }
 
     // methods
+
+
+    public HashMap<String, Double> getGroceryList() {
+        return groceryList;
+    }
+
     public void addItem(String item, double cost, String category) {
         // check if item exists
         if (this.checkItem(item)) {

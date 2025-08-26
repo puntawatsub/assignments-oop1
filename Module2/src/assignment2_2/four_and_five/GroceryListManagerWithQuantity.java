@@ -1,4 +1,4 @@
-package assignment2_2.four;
+package assignment2_2.four_and_five;
 
 import assignment2_2.two_and_three.GroceryListManager;
 
@@ -24,6 +24,20 @@ public class GroceryListManagerWithQuantity extends GroceryListManager {
         super.removeItem(item);
         // remove the quantity assigned to the item
         this.groceriesQuantity.remove(item);
+    }
+
+    @Override
+    public double calculateTotalCost() {
+        final HashMap<String, Double> groceryList = this.getGroceryList();
+        double totalCost = 0;
+        for (Map.Entry<String, Double> entry: groceryList.entrySet()) {
+            final String key = entry.getKey();
+            final Double value = entry.getValue();
+
+            totalCost += value * this.groceriesQuantity.get(key);
+        }
+
+        return totalCost;
     }
 
     public void addItem(String item, double cost, String category, int quantity) {
@@ -90,6 +104,7 @@ public class GroceryListManagerWithQuantity extends GroceryListManager {
 
         // display
         groceryListManager.displayList();
+        groceryListManager.displayAvailableItems();
 
         // calculate cost
         System.out.printf("Total cost: %.2f EUR\n", groceryListManager.calculateTotalCost());
