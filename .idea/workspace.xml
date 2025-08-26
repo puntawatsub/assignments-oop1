@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_2/two_and_three/GroceryListManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_2/four/GroceryListManagerWithQuantity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module2/src/assignment2_2/two/GroceryListManager.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +91,9 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="assignment2_2.four" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -127,7 +129,7 @@
       <workItem from="1756104654968" duration="6317000" />
       <workItem from="1756119612537" duration="2034000" />
       <workItem from="1756156241121" duration="312000" />
-      <workItem from="1756161508128" duration="6508000" />
+      <workItem from="1756161508128" duration="8194000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
