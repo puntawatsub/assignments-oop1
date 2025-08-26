@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module2/src/assignment2_2/four/GroceryListManagerWithQuantity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/src/assignment2_2/four/GroceryListManagerWithQuantity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/assignment2_2/four/GroceryListManagerWithQuantity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,47 +43,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinaryConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarDriver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CoffeeMakerDriver.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FahrenheitToCelsius.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroceryListManager.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTableExam.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObsoleteMeasurements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumberGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuadraticEquation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomName.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemovingDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubarraySum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfThreeNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TelevisionViewer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangles.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/puntawatsubhamani/Documents/class_codes/assignments-oop1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinaryConversion.executor": "Run",
+    "Application.CarDriver.executor": "Run",
+    "Application.Cat.executor": "Run",
+    "Application.CoffeeMakerDriver.executor": "Run",
+    "Application.FahrenheitToCelsius.executor": "Run",
+    "Application.Greeting.executor": "Run",
+    "Application.GroceryListManager.executor": "Run",
+    "Application.GroceryListManagerWithQuantity.executor": "Run",
+    "Application.MultiplicationTableExam.executor": "Run",
+    "Application.ObsoleteMeasurements.executor": "Run",
+    "Application.PrimeNumberGenerator.executor": "Run",
+    "Application.QuadraticEquation.executor": "Run",
+    "Application.RandomName.executor": "Run",
+    "Application.RemovingDuplicates.executor": "Run",
+    "Application.SubarraySum.executor": "Run",
+    "Application.SumOfThreeNumbers.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.TelevisionViewer.executor": "Run",
+    "Application.Triangles.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/puntawatsubhamani/Documents/class_codes/assignments-oop1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Module1" />
