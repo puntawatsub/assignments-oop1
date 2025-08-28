@@ -4,7 +4,7 @@ import assignment2_1.two.Car;
 
 public class CruiseControlCar extends Car {
 
-    private boolean cruiseControlOn;
+//    private boolean cruiseControlOn;
     private int targetSpeed;
     private int[] cruiseLimit = {20, 140};
 
