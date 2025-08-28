@@ -28,15 +28,21 @@ class Book {
 class Library {
     private ArrayList<Book> books = new ArrayList<>();
 
+    public Library() {
+        this.books = new ArrayList<>();
+    }
+
     // methods
     public void addBook(Book book) {
         this.books.add(book);
     }
 
     public void displayBooks() {
-        System.out.println("Books in Library: ");
+        System.out.println("Library Catalog:");
+        int count = 0;
         for (Book book: this.books) {
-            System.out.printf("Title: \"%s\", Author: \"%s\", Year: %d\n", book.getTitle(), book.getAuthor(), book.getPublicationYear());
+            count++;
+            System.out.printf("%d. Title: \"%s\", Author: \"%s\", Year: %d\n", count, book.getTitle(), book.getAuthor(), book.getPublicationYear());
         }
     }
 
@@ -47,10 +53,11 @@ class Library {
 
         if (authorBooks.isEmpty()) {
             System.out.printf("No book from \"%s\".\n", author);
+            return;
         }
 
-        System.out.printf("Books by Author \"%s\"\n", author);
-        for (Book book: this.books) {
+        System.out.printf("Books by Author \"%s\":\n", author);
+        for (Book book: authorBooks) {
             System.out.printf("Title: %s, Year: %d\n", book.getTitle(), book.getPublicationYear());
         }
     }
@@ -58,12 +65,25 @@ class Library {
 
 public class LibraryMain {
     public static void main(String[] args) {
+        // create books
         ArrayList<Book> books = new ArrayList<>();
         books.add(new Book("Introduction to Java Programming", "John Smith", 2020));
         books.add(new Book("Data Structures and Algorithms", "Jane Doe", 2018));
         books.add(new Book("The Art of Fiction", "Alice Johnson", 2019));
         books.add(new Book("How to DOE it", "Jane Doe", 2018));
 
+        // create library and add books to library
+        Library library = new Library();
+        for (Book book: books) {
+            library.addBook(book);
+        }
 
+        // display books
+        library.displayBooks();
+
+        System.out.println();
+
+        // find books by author
+        library.findBooksByAuthor("Jane Doe");
     }
 }
