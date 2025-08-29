@@ -76,6 +76,9 @@ class Library {
         for (Book book: books) {
             cumulativeRating += book.getRating();
         }
+        if (books.isEmpty()) {
+            return 0.0;
+        }
         average = cumulativeRating / books.size();
 
         return average;
@@ -91,7 +94,7 @@ class Library {
     public Book getMostReviewedBook() {
         ArrayList<Book> bookForComparison = new ArrayList<>(books);
         Collections.sort(bookForComparison, reviewComparator);
-        return bookForComparison.get(0);
+        return bookForComparison.get(bookForComparison.size() - 1);
     }
 
     public void addBook(Book book) {
@@ -137,7 +140,7 @@ class Library {
         ArrayList<Book> bookWithTitle = new ArrayList<Book>(
                 this.books.stream().filter(book -> book.getTitle().equals(title)).toList()
         );
-        return bookWithTitle.isEmpty();
+        return !bookWithTitle.isEmpty();
     }
 
     public void borrowBook(String title, User user) {
