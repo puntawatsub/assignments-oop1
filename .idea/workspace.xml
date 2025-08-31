@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Module2/src/assignment2_3/LibraryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/src/assignment2_3/LibraryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/Module3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/src/assignment3_1/one/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/src/assignment3_1/three/ShapeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/src/assignment3_1/two/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/assignments-oop1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assignments-oop1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +51,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.BinaryConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bus.executor&quot;: &quot;Run&quot;,
     &quot;Application.CarDriver.executor&quot;: &quot;Run&quot;,
     &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
     &quot;Application.CoffeeMakerDriver.executor&quot;: &quot;Run&quot;,
@@ -59,6 +66,7 @@
     &quot;Application.QuadraticEquation.executor&quot;: &quot;Run&quot;,
     &quot;Application.RandomName.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemovingDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShapeCalculator.executor&quot;: &quot;Run&quot;,
     &quot;Application.SubarraySum.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfThreeNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
@@ -80,19 +88,20 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Module1" />
       <recent name="$PROJECT_DIR$/Module1/src" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="assignment3_1" />
       <recent name="assignment2_2.four" />
     </key>
   </component>
@@ -134,7 +143,10 @@
       <workItem from="1756252568122" duration="3425000" />
       <workItem from="1756277400375" duration="2372000" />
       <workItem from="1756281211999" duration="2442000" />
-      <workItem from="1756427840008" duration="7808000" />
+      <workItem from="1756427840008" duration="8133000" />
+      <workItem from="1756582147200" duration="140000" />
+      <workItem from="1756607471370" duration="2689000" />
+      <workItem from="1756610202447" duration="1895000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
