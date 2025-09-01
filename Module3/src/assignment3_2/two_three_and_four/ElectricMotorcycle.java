@@ -9,5 +9,6 @@ public class ElectricMotorcycle extends AbstractVehicle implements ElectricVehic
     public String calculateFuelEfficiency() {
         return String.format("Efficiency: %d kWh", getEfficiency());
     }
+
 }
 
