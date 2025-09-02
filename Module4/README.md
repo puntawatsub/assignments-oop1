@@ -1,4 +1,5 @@
-**Assignment4_2:** A Calculator class that has the ability to sum positive integers. A negative integer should throw an exception.
+## Assignment4
+A Calculator class that has the ability to sum positive integers. A negative integer should throw an exception.
 
 ```java
 import java.util.Random;
