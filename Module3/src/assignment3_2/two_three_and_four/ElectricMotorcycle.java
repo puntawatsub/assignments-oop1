@@ -11,4 +11,3 @@ public class ElectricMotorcycle extends AbstractVehicle implements ElectricVehic
     }
 
 }
-

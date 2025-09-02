@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Module4/Module4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module4/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module3/src/assignment3_2/two_three_and_four/ElectricMotorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/src/assignment3_2/two_three_and_four/ElectricMotorcycle.java" afterDir="false" />
     </list>
@@ -48,6 +52,7 @@
   "keyToString": {
     "Application.BinaryConversion.executor": "Run",
     "Application.Bus.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.CarDriver.executor": "Run",
     "Application.Cat.executor": "Run",
     "Application.CoffeeMakerDriver.executor": "Run",
@@ -85,7 +90,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -147,7 +152,9 @@
       <workItem from="1756582147200" duration="140000" />
       <workItem from="1756607471370" duration="2689000" />
       <workItem from="1756610202447" duration="1895000" />
-      <workItem from="1756708763464" duration="10106000" />
+      <workItem from="1756708763464" duration="10723000" />
+      <workItem from="1756798472061" duration="4000" />
+      <workItem from="1756818747403" duration="1966000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
