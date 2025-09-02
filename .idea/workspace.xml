@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module4/Module4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module4/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module3/src/assignment3_2/two_three_and_four/ElectricMotorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/src/assignment3_2/two_three_and_four/ElectricMotorcycle.java" afterDir="false" />
-    </list>
+    <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +147,7 @@
       <workItem from="1756610202447" duration="1895000" />
       <workItem from="1756708763464" duration="10723000" />
       <workItem from="1756798472061" duration="4000" />
-      <workItem from="1756818747403" duration="1966000" />
+      <workItem from="1756818747403" duration="2387000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
