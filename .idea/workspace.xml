@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module3/src/assignment3_3/one/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module3/src/assignment3_3/two/library/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module3/src/assignment3_3/two/library/model/LibraryMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module3/src/assignment3_3/two/library/system/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/src/assignment3_4/one/UlkoTalo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module3/src/assignment3_4/two/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +59,7 @@
     "Application.GroceryListManager.executor": "Run",
     "Application.GroceryListManagerWithQuantity.executor": "Run",
     "Application.LibraryMain.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MultiplicationTableExam.executor": "Run",
     "Application.ObsoleteMeasurements.executor": "Run",
     "Application.PrimeNumberGenerator.executor": "Run",
@@ -73,6 +72,7 @@
     "Application.Task2.executor": "Run",
     "Application.TelevisionViewer.executor": "Run",
     "Application.Triangles.executor": "Run",
+    "Application.UlkoTalo.executor": "Run",
     "Application.VehicleDemo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -154,7 +154,8 @@
       <workItem from="1756610202447" duration="1895000" />
       <workItem from="1756708763464" duration="10723000" />
       <workItem from="1756798472061" duration="4000" />
-      <workItem from="1756818747403" duration="6228000" />
+      <workItem from="1756818747403" duration="7042000" />
+      <workItem from="1757092248818" duration="12192000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
