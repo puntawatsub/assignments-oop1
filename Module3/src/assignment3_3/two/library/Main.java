@@ -29,5 +29,11 @@ public class Main {
         for (Book book : library.getBooks()) {
             System.out.println(book.getTitle());
         }
+
+        library.reserveBook(member1, book1);
+        library.displayReservedBooks(member1);
+
+        library.cancelReservation(member1, book1);
+        library.displayReservedBooks(member1);
     }
 }
