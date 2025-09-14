@@ -34,6 +34,7 @@ public class Main {
             oos.writeObject(enrollmentsSave);
         } catch (Exception e) {
             System.err.println(e);
+            e.printStackTrace();
         }
 
         try (
@@ -46,6 +47,7 @@ public class Main {
             }
         } catch (Exception e) {
             System.err.println(e);
+            e.printStackTrace();
         }
     }
 }

@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="" />
+    <list default="true" id="ecbef037-c955-4ad5-aaa9-663f2fc4d968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Module5/Module5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module5/src/assignment5_1/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module5/src/assignment5_1/one/NumberPrintingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module5/src/assignment5_1/two/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/src/assignment3_4/one/UlkoTalo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/src/assignment3_4/one/UlkoTalo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/src/assignment3_4/three/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/src/assignment3_4/three/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enrollments.ser" beforeDir="false" afterPath="$PROJECT_DIR$/enrollments.ser" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +67,7 @@
     "Application.LibraryMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MultiplicationTableExam.executor": "Run",
+    "Application.NumberPrintingTest.executor": "Debug",
     "Application.ObsoleteMeasurements.executor": "Run",
     "Application.PrimeNumberGenerator.executor": "Run",
     "Application.QuadraticEquation.executor": "Run",
@@ -86,7 +97,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -152,6 +163,11 @@
       <workItem from="1756798472061" duration="4000" />
       <workItem from="1756818747403" duration="7042000" />
       <workItem from="1757092248818" duration="24501000" />
+      <workItem from="1757275703576" duration="4332000" />
+      <workItem from="1757327969591" duration="60000" />
+      <workItem from="1757329692665" duration="5000" />
+      <workItem from="1757372998685" duration="354000" />
+      <workItem from="1757795098670" duration="29651000" />
     </task>
     <task id="LOCAL-00001" summary="add Greeting.java">
       <option name="closed" value="true" />
@@ -187,6 +203,15 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Module5/src/assignment5_1/one/NumberPrintingTest.java</url>
+          <line>167</line>
+          <properties class="assignment5_1.one.EvenProcess" method="runProcess">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

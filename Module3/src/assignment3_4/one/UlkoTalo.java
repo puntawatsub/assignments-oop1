@@ -25,6 +25,7 @@ public class UlkoTalo {
             url = new URL(LINKNAME);
         } catch (MalformedURLException e) {
             System.err.println(e);
+            e.printStackTrace();
             return;
         }
 
